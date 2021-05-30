@@ -42,6 +42,11 @@ export default function Home() {
           rel="icon"
           href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/160px-Google_%22G%22_Logo.svg.png"
         />
+        <link
+          rel="apple-touch-icon" 
+          href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/160px-Google_%22G%22_Logo.svg.png"
+        />
+        <meta name="description" content="A Google Clone Made by Zaid Mukaddam using Next JS" />
       </Head>
 
       <header>
